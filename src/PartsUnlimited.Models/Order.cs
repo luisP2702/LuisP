@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
-{
+{  // Esto es la clase Order
     public class Order
     {
         [BindNever]
