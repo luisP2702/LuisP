@@ -10,6 +10,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    // CAmbio local en Product
     public class Product
     {
         [Required]
